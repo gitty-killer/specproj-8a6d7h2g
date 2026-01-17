@@ -1,0 +1,6 @@
+{
+  ""name"": ""specproj-8a6d7h2g"",
+  ""goal"": ""CLI validator for cache hydration"",
+  ""language"": ""go"",
+  ""template"": ""go-cli""
+}
